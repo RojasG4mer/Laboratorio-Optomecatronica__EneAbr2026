@@ -1,0 +1,18 @@
+Los subVI's se crean con el panelcito de arriba a la derecha, de arriba hacia abajo, con excepción de los errores, esos van hasta abajo para el data flow, 
+izquierda entradas, izquierda salidas
+
+Ctril + K  - poner el nombre del subVI del nombre del archivo
+
+Arriba a la derecha ponemos en editar VI y podemos ponerle un logo personalizado.
+
+Selecciona la parte del codigo que quieras subVI en el panel de bloques, ahora en file, create subVI y listones
+
+En el icono del subVI en el VI en VI propertis podemos crearle la ayuda contextual
+
+Para cambiar de terminales, le damos ctrl + click izquierdo y lo podemos mover cambiandolo a la nueva terminal.
+
+Sumar 2 arreglos de manera polimófica (sumar dos arreglos normales), rellena los espacios en blanco con cero
+
+Click derecho sobre el cluster y en autosizing y acomodarlo
+
+ 
