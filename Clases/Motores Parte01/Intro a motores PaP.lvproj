@@ -11,9 +11,10 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="SubVIs" Type="Folder">
+			<Item Name="Motor FGV.vi" Type="VI" URL="../Motor FGV.vi"/>
 			<Item Name="Reverse2Darray -- SubVI.vi" Type="VI" URL="../Reverse2Darray -- SubVI.vi"/>
 		</Item>
-		<Item Name="Motor FGV.vi" Type="VI" URL="../Motor FGV.vi"/>
+		<Item Name="Motor_Test.vi" Type="VI" URL="../Motor_Test.vi"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
