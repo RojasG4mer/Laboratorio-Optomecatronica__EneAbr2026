@@ -1,1 +1,10 @@
-DAK - 
+DAQ - Data Aquasition (obtención de datos).
+-> Entradas y salidas tanto digital como analógicas (pueden salir amperajes desde 0-20mA, 4-20mA) y (en el voltaje a varios de estos)
+Lo que cambia es las kilo muestras por segundo y da señales de 16 bits (
+
+
+\section*{Tipos de motores DC}
+\begin{itemize}
+
+
+ 
