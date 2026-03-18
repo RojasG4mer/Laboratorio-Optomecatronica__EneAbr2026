@@ -24,6 +24,7 @@
 			<Item Name="Stop all tasks.vi" Type="VI" URL="../subVI/Stop all tasks.vi"/>
 			<Item Name="Set motor Duty cycle.vi" Type="VI" URL="../subVI/Set motor Duty cycle.vi"/>
 			<Item Name="Enable-disable control.vi" Type="VI" URL="../subVI/Enable-disable control.vi"/>
+			<Item Name="Overlay result.vi" Type="VI" URL="../subVI/Overlay result.vi"/>
 		</Item>
 		<Item Name="Tasks/channels" Type="Folder">
 			<Item Name="CCW" Type="NI-DAQmx Channel">
