@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 
-df = pd.read_csv('Control\PID - P.csv')
+df = pd.read_csv(r'Control\PID - P.csv')
 
 columnas = df.columns
 
