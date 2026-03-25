@@ -48,7 +48,7 @@ hold off;
 %% Control PI
 clc;
 
-Kc = ;
+Kc = 1;
 Ti = [3 2 1];
 Td = 0;
 s = tf([1 0],1);
