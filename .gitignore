@@ -8,4 +8,5 @@ env/
 *.out
 *.toc
 *.synctex.gz
-*.pdf
+# Archivos raros 
+.DS_Store
